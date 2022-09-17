@@ -1,2 +1,2 @@
-# python-_group
+# python_group
 Шулятьев Савелий
